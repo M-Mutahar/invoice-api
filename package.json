@@ -1,0 +1,6 @@
+{
+  "name": "invoice-extraction-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Invoice/receipt data extraction API powered by Claude"
+}
